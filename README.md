@@ -68,7 +68,7 @@
 🍎 Developed an interactive dashboard to analyze nutritional content  
 ⚡ Used Power Query and DAX for dynamic calculations and filtering  
 📊 Highlighted nutrient-dense vs high-calorie foods via visual KPIs  
-
+---
 ### 🔹 Sentiment and Image Analysis in Political Approval Ratings  
 > **Tools:** R, Twitter API, RedditExtractoR, tidytext, randomForest, LDA  
 📌 Conducted multiplatform sentiment analysis on U.S. political leaders using Twitter, Reddit, and news comments  
