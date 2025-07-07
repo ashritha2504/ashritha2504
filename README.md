@@ -70,6 +70,11 @@
 ⚡ Used Power Query and DAX for dynamic calculations and filtering  
 📊 Highlighted nutrient-dense vs high-calorie foods via visual KPIs  
 
+### 🔹Sentiment and Image Analysis in Political Approval Ratings
+> **Tools:** R, Twitter API, RedditExtractoR, tidytext, randomForest, LDA
+📌 Conducted multiplatform sentiment analysis on U.S. political leaders using Twitter, Reddit, and news comments
+📊 Applied lexicon- and ML-based sentiment classification; visualized trends across time, region, and platform
+📈 Compared sentiment data to simulated polling, achieving a 0.65 correlation with approval ratings
 ---
 
 > “Transforming data into decisions that matter.”
