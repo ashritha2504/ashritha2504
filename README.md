@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ashritha Kandakatla</h1>
-<h3 align="center">Data Analyst | Business Intelligence | Dashboard Developer</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
